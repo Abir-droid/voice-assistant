@@ -20,7 +20,7 @@ engine = pyttsx3.init()
 engine.setProperty('rate', 190)
 
 # Initialize the News API client with your API key
-news_api = NewsApiClient(api_key='d004a30a824d4fcabbebcc26f6b65721')  # Replace with your News API key
+news_api = NewsApiClient(api_key='Your Api key')  # Replace with your News API key
 
 
 # Define a function to speak a text
@@ -322,8 +322,8 @@ def execute_command(command):
             speak("Invalid input. Please enter a number from 1 to 5.")
     # Add weather functionality
     elif "weather in" in command:
-        city = command.split("weather in ")[-1]
-        weather_url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=5ebec142c5eab53f6f151c1935e517ef&units=metric"
+        city = command.split("weather in ")[-1]k
+        weather_url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=Yours_Api&units=metric"
         response = requests.get(weather_url)
         data = response.json()
         if data["cod"] == 200:
