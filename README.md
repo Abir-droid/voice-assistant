@@ -39,8 +39,8 @@ Description of the functions:
 	To know more about a news topic from 6 number step, you have to say "tell me about topic" and then it will ask you to enter the topic number.
 	After typing the topic number it will redirect you to news article in your browser. 
 8. Increasing or decreasing volume:
-	To increase the volume of your pc say "volume up to (the percentage of volume). [Eample: volume up to 80 percent]
-	To decrease the volume of your pc say "volume down to (the percentage of volume). [Eample: volume down to 20 percent]
+	To increase the volume of your pc say "volume up to (number of volume). [Eample: volume up to 80]
+	To decrease the volume of your pc say "volume down to (number of volume). [Eample: volume down to 20]
 9. Turn on or off wifi(Needed to run the pyhton file with Adminstrator previlages):
 	to turn on wifi Say "turn on wireless fidelity"
 	to turn of wifi Say "turn of wireless fidelity"
