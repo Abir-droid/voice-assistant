@@ -63,10 +63,10 @@ Description of the functions:
 
 To be noted:
 
-# To run this code, you have to install the necessary python modules.
-# The voice command's writen in the tutorials are absolute for executing commands. Means whatever sentence you say for executing a task it must
+* To run this code, you have to install the necessary python modules.
+* The voice command's writen in the tutorials are absolute for executing commands. Means whatever sentence you say for executing a task it must
   have the corresponding words/phrases written in above.
-# You have to modify the code according to your requirements. Like: for playing the video or music you must have to give your own folder paths in the code.
+* You have to modify the code according to your requirements. Like: for playing the video or music you must have to give your own folder paths in the code.
   And you can modify the 
-# To turn on/off wifi you need to run this python file in the terminal with adminstritive previlages.
-# The speech to text module used in this code doesn't support numbers. (It will recognize 1 as one).
+* To turn on/off wifi you need to run this python file in the terminal with adminstritive previlages.
+* The speech to text module used in this code doesn't support numbers. (It will recognize 1 as one).
