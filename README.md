@@ -61,7 +61,8 @@ Description of the functions:
 		2. Play the video by it's position:
 			say "play (first/second/third etc) music"
 *Here is a video link demonstrating of some of these features:
-<iframe width="853" height="480" src="https://www.youtube.com/embed/Jdru3sZRPYE" title="Demo of a voice-assistant made with python." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	https://www.youtube.com/embed/Jdru3sZRPYE
+
 To be noted:
 
 * To run this code, you have to install the necessary python modules.
