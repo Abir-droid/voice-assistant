@@ -223,7 +223,7 @@ def execute_command(command):
 
             if app_id:
                 # Try to open the UWP app using the AppId
-                os.system(f'start shell:AppsFolder\{app_id}')
+                os.system(f'start shell:AppsFolder\\{app_id}')
                 speak(f"Opening {app_name}")
                 return  # Return from the function after successfully opening the app
             else:
@@ -322,7 +322,7 @@ def execute_command(command):
             speak("Invalid input. Please enter a number from 1 to 5.")
     # Add weather functionality
     elif "weather in" in command:
-        city = command.split("weather in ")[-1]k
+        city = command.split("weather in ")[-1]
         weather_url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=Yours_Api&units=metric"
         response = requests.get(weather_url)
         data = response.json()
