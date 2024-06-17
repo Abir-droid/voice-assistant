@@ -22,18 +22,18 @@ Thing's that this voice assistant can do:
 
 Description of the functions:
 
-1. #listing installed apps:
+1. listing installed apps:
 	Just say "list apps". And it will show the list of installed apps on your pc.
-2. #Opening apps:
+2. Opening apps:
         Say "open (the app name)". And it will open the app for you. Remember that the app name has to be the exact name which is listed on the installed app from
 		the previous command. Otherwise it won't work. [Example: open notepad]
-3. #telling weather information:
+3. telling weather information:
 	Say "weather in (the city name)". And it will show the weather information of that city. [Eample: tell me the weather in Dhaka./what is the weather in Dhaka]
-4. #telling time:
+4. telling time:
 	Say any sentence including the word "time" and it will tell you the local time. [Example: What is the time now? /Tell me the time/time]
-5. #telling date:
+5. telling date:
 	Say any sentence including the word "date" and it will tell you today's date. [Example: What is the date today? /Tell me today's date /date]
-6. #telling 5 international news topics:
+6. telling 5 international news topics:
 	By saying "news" it'll tell and show you 5 internaltional topic.
 7. opening the news topic on browser by topic number:
 	To know more about a news topic from 6 number step, you have to say "tell me about topic" and then it will ask you to enter the topic number.
